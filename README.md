@@ -1,6 +1,10 @@
 # 2D-Brillouin-zone-algorithm
 To compute and draw 2D Brillouin zones in several seconds
 
+Install all libraries required.
+
+__Note__: Installing CGAL-bindings could be tricky as the official one is unavailable for now. Please see my instruction here: https://github.com/Hui606/Install-CGAL-Bindings-for-python-and-java
+
 To run the algorithm,
 
 1. Input parameters required in input.py
